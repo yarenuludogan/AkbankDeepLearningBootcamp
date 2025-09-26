@@ -28,5 +28,5 @@ Veri seti Kaggle Notebook üzerinden bağlanmıştır. `.txt` dosyaları dışla
 - Grad-CAM ile modelin dikkat bölgeleri görselleştirilmiştir
 
 ## 🔗 Kaggle Notebook
-[Kaggle Notebook Linkini Buraya Ekleyin](https://www.kaggle.com/...)
+https://www.kaggle.com/code/yarenuludoan/plant-seedlings-cnn-classifier
 
